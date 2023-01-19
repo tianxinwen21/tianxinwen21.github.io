@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>defuatlt - Category - My New Hugo Site</title>
+        <link>https://www.tianxinwen21.github.io/categories/defuatlt/</link>
+        <description>defuatlt - Category - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 19 Jan 2023 12:01:47 &#43;0800</lastBuildDate><atom:link href="https://www.tianxinwen21.github.io/categories/defuatlt/" rel="self" type="application/rss+xml" /><item>
+    <title>Test</title>
+    <link>https://www.tianxinwen21.github.io/posts/test/</link>
+    <pubDate>Thu, 19 Jan 2023 12:01:47 &#43;0800</pubDate><guid>https://www.tianxinwen21.github.io/posts/test/</guid>
+    <description><![CDATA[测试是否能够部署. ]]></description>
+</item>
+</channel>
+</rss>
